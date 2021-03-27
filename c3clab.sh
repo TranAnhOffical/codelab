@@ -9,9 +9,7 @@ sudo apt install git
 echo "--------Instal Curl----------"
 sudo apt install curl
 echo "--------Instal Nodejs----------"
-curl -sL
-https://deb.nodesource.com/setup_14.x
-| sudo -E bash-
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash-
 echo "--------Instal Nodejs 2----------"
 sudo apt install nodejs
 echo "--------Instal C3C----------"
