@@ -14,6 +14,7 @@ sudo apt install curl
 clear
 echo "--------Instal Nodejs----------"
 sudo curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash-
+sudo apt install curl build-essential
 clear
 echo "--------Instal Nodejs 2----------"
 sudo apt install nodejs
